@@ -10,7 +10,7 @@ HOW TO USE
 
 3) Open Powershell with administrator in desktop and write the command in part 4
 
-4))))                .\blocca_e_avvia_packet_tracer.ps1
+4)             .\blocca_e_avvia_packet_tracer.ps1
 
 5) You are done!
 
