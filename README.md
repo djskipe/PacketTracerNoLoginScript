@@ -4,7 +4,7 @@ I simple script in Powershell for bypass the login in Packet Tracer
 
 HOW TO USE
 
-1) Install Cisco Packet Tracer 
+1) Install Cisco Packet Tracer 8.2.2 from here: https://archive.org/details/packet-tracer-822-64bit-setup-signed
 
 2) Download my script and save it in desktop
 
