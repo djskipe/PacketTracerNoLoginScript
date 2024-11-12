@@ -8,7 +8,7 @@ HOW TO USE
 
 2) Download my script and save it in desktop
 
-3) Open Powershell with administrator in desktop and write the command in part 4
+3) Open Powershell with administrator in desktop and write
 
 4)             .\blocca_e_avvia_packet_tracer.ps1
 
