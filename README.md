@@ -1,2 +1,19 @@
 # PackeTracerNoLoginScript
 I simple script in Powershell for bypass the login in Packet Tracer
+
+
+HOW TO USE
+
+1) Install Cisco Packet Tracer 
+
+2) Download my script and save it in desktop
+
+3) Open Powershell with administrator in desktop and run the script in part 4
+
+4) .\blocca_e_avvia_packet_tracer.ps1
+
+5) You are done!
+
+
+If you have Packet Tracker install in a different folder open the script with Notepad or Notepad++ and modify this part with your folder!
+[Screenshot 2024-11-12 172433](https://github.com/user-attachments/assets/c9ce9daa-fd8d-4ded-8014-aae13afe4427)
