@@ -21,4 +21,3 @@ If you have Packet Tracker install in a different folder open the script with No
 
 
 
-![Uploading Untitled.gif…]()
